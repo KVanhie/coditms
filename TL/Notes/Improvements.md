@@ -1,4 +1,4 @@
-# Strategy
+# Improvements
 
 At the moment we are missing a defined direction of how we want to do support from a technical perspective.
 
